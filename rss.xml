@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Neil Parmenter: My inspirations]]></title>
         <description><![CDATA[Neil Parmenter: My inspirations]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/neil-parmenter-my-inspirations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:36:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 13:47:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/neil-parmenter-my-inspirations/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.jaguar.co.uk/Images/FP_17MY_133_LHD_GALLERY-device_desktop-1366x769_tcm91-186307_desktop_1366x769.jpg?v=5">]]></description>
+            <link>https://thegrid.ai/neil-parmenter-my-inspirations/e150f27a-efb4-4272-9fde-7828022e136f/index.html</link>
+            <guid isPermaLink="false">e150f27a-efb4-4272-9fde-7828022e136f</guid>
+            <pubDate>Tue, 03 May 2016 13:47:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thruxton | Triumph Motorcycles]]></title>
             <description><![CDATA[<article><h1>Thruxton | Triumph Motorcycles</h1><p>With all of the brooding presence and poise of the original Triumph racers the all new Thruxton and Thruxton R take the modern classic sports bike to a new level. Combining beautifully sharp and imposing styling with a wealth of high quality details, including a slim sculpted petrol tank, single seat set-up and a unique flip-up 'Monza' cap, the Thruxton and Thruxton R set the new benchmark.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbd0f2f45674e4f336a253e5573a85c8d09dde3b.jpg"></article>]]></description>
