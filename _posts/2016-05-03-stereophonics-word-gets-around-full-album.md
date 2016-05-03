@@ -15,9 +15,9 @@ keywords:
   - oasis
   - graffiti
   - dakota
-description: 'Stereophonics: Great memories  A band that I never get tired of listening to. From the classics "The Bartender and the Thief" to the newer "Graffiti on the Train", the Stereophonics never cease to put a smile on my face. '
-datePublished: '2016-05-03T18:02:37.762Z'
-dateModified: '2016-05-03T18:01:46.336Z'
+description: 'Stereophonics: Great memories A band that I never get tired of listening to. From the classics "The Bartender and the Thief" to the newer "Graffiti on the Train", the Stereophonics never cease to put a smile on my face. '
+datePublished: '2016-05-03T18:07:43.604Z'
+dateModified: '2016-05-03T18:03:13.416Z'
 author:
   - name: ''
     url: 'https://www.youtube.com/user/SuperFullalbums'
@@ -61,6 +61,8 @@ app_links:
     namespace: google
     type: ios
 title: Stereophonics - Word Gets Around (FULL ALBUM)
+sourcePath: _posts/2016-05-03-stereophonics-word-gets-around-full-album.md
+published: true
 authors: []
 publisher:
   name: YouTube
@@ -68,8 +70,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-03-stereophonics-word-gets-around-full-album.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
