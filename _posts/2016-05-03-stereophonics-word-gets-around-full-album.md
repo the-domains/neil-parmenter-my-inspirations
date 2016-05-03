@@ -16,8 +16,8 @@ keywords:
   - graffiti
   - dakota
 description: 'Stereophonics: Great memories A band that I never get tired of listening to. From the classics "The Bartender and the Thief" to the newer "Graffiti on the Train", the Stereophonics never cease to put a smile on my face. '
-datePublished: '2016-05-03T18:07:43.604Z'
-dateModified: '2016-05-03T18:03:13.416Z'
+datePublished: '2016-05-03T18:25:44.074Z'
+dateModified: '2016-05-03T18:07:51.486Z'
 author:
   - name: ''
     url: 'https://www.youtube.com/user/SuperFullalbums'
