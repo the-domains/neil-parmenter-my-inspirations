@@ -15,9 +15,9 @@ keywords:
   - oasis
   - graffiti
   - dakota
-description: 'Stereophonics: Great memories A band that I never get tired of listening to. From the classics "The Bartender and the Thief" to the newer "Graffiti on the Train", the Stereophonics never cease to put a smile on my face. '
-datePublished: '2016-05-03T18:25:44.074Z'
-dateModified: '2016-05-03T18:07:51.486Z'
+description: 'Stereophonics: Great memories.'
+datePublished: '2016-05-04T05:46:54.570Z'
+dateModified: '2016-05-04T05:37:58.603Z'
 author:
   - name: ''
     url: 'https://www.youtube.com/user/SuperFullalbums'
@@ -74,7 +74,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-Stereophonics: Great memories  
+**Stereophonics: Great memories.**
+
 A band that I never get tired of listening to. From the classics "The Bartender and the Thief" to the newer "Graffiti on the Train", the Stereophonics never cease to put a smile on my face. 
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDNLyl__ckG0%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDNLyl__ckG0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDNLyl__ckG0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
