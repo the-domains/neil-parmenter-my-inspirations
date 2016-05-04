@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.triumphmotorcycles.co.uk'
-  name: Triumphmotorcycles
-  favicon: 'http://www.triumphmotorcycles.co.uk/favicon.ico'
-  domain: www.triumphmotorcycles.co.uk
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.triumphmotorcycles.co.uk/motorcycles/Classics/Thruxton/2016/thruxton'
+inLanguage: en
 keywords:
   - thruxton
   - set-up
@@ -18,18 +16,21 @@ keywords:
   - brooding
   - sculpted
 description: "With all of the brooding presence and poise of the original Triumph racers the all new Thruxton and Thruxton R take the modern classic sports bike to a new level. Combining beautifully sharp and imposing styling with a wealth of high quality details, including a slim sculpted petrol tank, single seat set-up and a unique flip-up 'Monza' cap, the Thruxton and Thruxton R set the new benchmark."
-inLanguage: en
+datePublished: '2016-05-04T05:47:37.592Z'
+dateModified: '2016-05-04T05:47:37.128Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.triumphmotorcycles.co.uk/motorcycles/Classics/Thruxton/2016/thruxton'
 title: 'Thruxton | Triumph Motorcycles'
-datePublished: '2016-05-03T13:36:17.682Z'
-dateModified: '2016-05-03T13:34:03.394Z'
-starred: false
 sourcePath: _posts/2016-05-03-thruxton-or-triumph-motorcycles.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Triumphmotorcycles
+  domain: www.triumphmotorcycles.co.uk
+  url: 'http://www.triumphmotorcycles.co.uk'
+  favicon: 'http://www.triumphmotorcycles.co.uk/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
